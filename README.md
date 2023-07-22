@@ -24,7 +24,10 @@ Data like: Invoice number; Invoice issuer; Client name; Complete address; Gross 
 # How to run the project
 
 ## Back end
-prerequisites: Computer
+prerequisites: 
+- Computer
+- xml files
+
 
 ```bash
 # to clone repository acess
