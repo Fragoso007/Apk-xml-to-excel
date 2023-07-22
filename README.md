@@ -16,6 +16,11 @@ Data like: Invoice number; Invoice issuer; Client name; Complete address; Gross 
 ## Back end
 - Python
 
+# Skills and used libraries
+- xmltodict
+- os
+- pandas
+
 # How to run the project
 
 ## Back end
